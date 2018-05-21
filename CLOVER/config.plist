@@ -160,7 +160,7 @@
 	<key>Boot</key>
 	<dict>
 		<key>Arguments</key>
-		<string>-v slide=0 dart=0 npci=0x3000 nvda_drv=1 kext-dev-mode=1 rootless=0 keepsyms=1 debug=0x100 -liludbgall -alcbeta -lilubetaall</string>
+		<string>slide=0 dart=0 npci=0x3000 nvda_drv=1 kext-dev-mode=1 -liludbgall -alcbeta -lilubetaall</string>
 		<key>Debug</key>
 		<false/>
 		<key>DefaultLoader</key>
@@ -488,21 +488,21 @@
 		<key>SMBIOS</key>
 	<dict>
 		<key>BiosReleaseDate</key>
-		<string>02/02/2018</string>
+		<string>08/08/17</string>
 		<key>BiosVendor</key>
 		<string>Apple Inc.</string>
 		<key>BiosVersion</key>
-		<string>IM142.88Z.0128.B00.1802021101</string>
+		<string>IM121.88Z.004D.B00.1708080012</string>
 		<key>Board-ID</key>
-		<string>Mac-27ADBB7B4CEE8E61</string>
+		<string>Mac-942B59F58194171B</string>
 		<key>BoardManufacturer</key>
 		<string>Apple Inc.</string>
 		<key>BoardSerialNumber</key>
-		<string>D254221304NDMT3A8</string>
+		<string>W88133600OPFF4KCB</string>
 		<key>BoardType</key>
 		<integer>10</integer>
 		<key>BoardVersion</key>
-		<string>1.0</string>
+		<string>1.9</string>
 		<key>ChassisAssetTag</key>
 		<string>iMac-Aluminum</string>
 		<key>ChassisManufacturer</key>
@@ -512,7 +512,7 @@
 		<key>Family</key>
 		<string>iMac</string>
 		<key>FirmwareFeatures</key>
-		<string>0xE00FE137</string>
+		<string>0xE00DE137</string>
 		<key>FirmwareFeaturesMask</key>
 		<string>0xFF1FFF3F</string>
 		<key>LocationInChassis</key>
@@ -522,13 +522,13 @@
 		<key>Mobile</key>
 		<false/>
 		<key>PlatformFeature</key>
-		<string>0x01</string>
+		<string>0xFFFF</string>
 		<key>ProductName</key>
-		<string>iMac14,2</string>
+		<string>iMac12,2</string>
 		<key>SerialNumber</key>
-		<string>D25MT1FAF8JC</string>
+		<string>W88G71ONDHJQ</string>
 		<key>Version</key>
-		<string>1.0</string>
+		<string>1.9</string>
 	</dict>
 	<key>SystemParameters</key>
 	<dict>
